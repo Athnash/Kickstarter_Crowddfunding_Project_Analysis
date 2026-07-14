@@ -1,16 +1,17 @@
-📊 Kickstarter Crowdfunding Projects Analysis — Power BI Dashboard
+## 📊 Kickstarter Crowdfunding Projects Analysis — Power BI Dashboard
 
-📌 Project Summary
+## 📌 Project Summary
 
 A comprehensive Power BI analysis of Kickstarter crowdfunding projects, examining success rates, failure patterns, live project performance, country-level fundraising, creator categories, and pledge trends. This dashboard transforms raw Kickstarter data into actionable insights that help creators understand what drives campaign success.
 
 
-📝 Project Overview
+## 📝 Project Overview
 
 This project focuses on analyzing Kickstarter crowdfunding data to uncover key trends, success drivers, and failure patterns across different categories, countries, time periods, and creators.
 
 
-The dashboard provides:
+
+## The dashboard provides:
 
 Success, Failure, and Live project KPIs
 
@@ -29,7 +30,9 @@ Interactive filtering for deeper exploration
 This project demonstrates strong skills in Power BI, DAX, data modeling, data cleaning, and storytelling with data.
 
 
-🎯 Problem Statement
+
+
+## 🎯 Problem Statement
 
 Kickstarter has thousands of crowdfunding campaigns, but creators struggle to understand:
 
@@ -48,7 +51,9 @@ Seasonal or monthly patterns in fundraising
 This project solves these problems by providing an interactive dashboard with clear KPIs and insights.
 
 
-🛠 Tools & Technologies
+
+
+## 🛠 Tools & Technologies
 Tool	Purpose
 Power BI Desktop	Dashboard creation, modeling, DAX calculations
 Power Query (M language)	Cleaning, transforming datasets
@@ -58,7 +63,9 @@ Google Drive / GitHub	Storing dataset & PBIX file
 🔧 Data Cleaning & Preparation
 
 
-Performed using Power Query:
+
+
+## Performed using Power Query:
 
 ✔ Removed duplicates
 ✔ Split and transformed columns
@@ -81,7 +88,10 @@ Goal amount
 The final dataset was loaded into a star-schema model for better DAX performance.
 
 
-📐 DAX Measures Used
+
+
+
+## 📐 DAX Measures Used
 
 Below are key measures included in the project:
 
@@ -118,7 +128,10 @@ Country-wise pledged total
 Creator-wise pledge comparison
 
 
-📊 Dashboards Preview
+
+
+
+## 📊 Dashboards Preview
 
 🔹 Overall Kickstarter Dashboard
 <img width="1182" height="666" alt="Screenshot 2025-10-29 104056" src="https://github.com/user-attachments/assets/731e9f58-285c-4323-9873-1cc5d73bcef3" />
@@ -133,7 +146,10 @@ Creator-wise pledge comparison
 <img width="1181" height="665" alt="Screenshot 2025-10-29 104138" src="https://github.com/user-attachments/assets/0e662715-903b-42ba-9b4d-558a754e59bd" />
 
 
-▶️ How to Run This Project?
+
+
+
+## ▶️ How to Run This Project?
 
 1. Download the Power BI File (.pbix)
 
@@ -158,7 +174,10 @@ Time periods
 Goal ranges
 
 
-💡 Key Insights
+
+
+
+## 💡 Key Insights
 ✔ Success Rate: 38.35%
 
 A significant number of projects do not reach their goals.
@@ -194,7 +213,11 @@ Projects with very high goals (2000+ units) have the highest failure percentage.
 December and May show the highest pledge activity.
 
 
-🏁 Results & Conclusion
+
+
+
+
+### 🏁 Results & Conclusion
 
 The Power BI dashboard clearly shows:
 
@@ -211,7 +234,10 @@ Creator reputation improves campaign success.
 This dashboard enables creators to make data-driven decisions before launching campaigns.
 
 
-🚀 Future Work
+
+
+
+## 🚀 Future Work
 
 ✔ Add prediction models for success probability
 ✔ Add time-series forecasting for pledge amounts
@@ -220,9 +246,12 @@ This dashboard enables creators to make data-driven decisions before launching c
 ✔ Add category-based benchmarking
 
 
-👤 Author & Contact
 
-Name: Athnash Kandulna
+
+
+## 👤 Author & Contact
+
+## Name: Athnash Kandulna
 Email: athnash2003@gmail.com
 LinkedIn: www.linkedin.com/in/athnash-kandulna-0687a3274
 GitHub: https://github.com/Athnash/Athnash
